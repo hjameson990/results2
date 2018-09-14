@@ -1,4 +1,4 @@
-# Gene	log2FoldChange	pvalue
+Gene	log2FoldChange	pvalue
 Cand2	-4.500370286	5.75E-205
 2210407C18Rik	-2.667789756	3.41E-38
 Dmd	-1.54836142	3.41E-37
